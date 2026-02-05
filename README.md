@@ -1,2 +1,3 @@
 #!/bin/bash
-Shell basics
+for the start up
+
